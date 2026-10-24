@@ -1,0 +1,41 @@
+{
+  "name": "flashbots-bundle-simulator-anvil",
+  "version": "1.3.0",
+  "description": "Complete toolkit for simulating Flashbots bundles via eth_callBundle, Anvil mainnet fork testing, and diagnosing 'Flashbots bundle not included' failures across Titan, Beaverbuild, Rsync, and Flashbots. Maintained by MEV DAO (https://mevdao.org)",
+  "main": "dist/simulateBundle.js",
+  "type": "module",
+  "scripts": {
+    "simulate": "tsx src/simulateBundle.ts",
+    "diagnose": "tsx src/diagnoseBundle.ts",
+    "anvil-test": "tsx src/anvilForkTest.ts",
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "flashbots-bundle",
+    "flashbots-bundle-not-included",
+    "simulate-flashbots-bundle",
+    "eth-sendbundle",
+    "eth-callbundle",
+    "mainnet-fork-testing-anvil",
+    "flashbots",
+    "anvil",
+    "mev-dao"
+  ],
+  "homepage": "https://mevdao.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mevdao-org/flashbots-bundle-simulator-anvil.git"
+  },
+  "author": "MEV DAO <research@mevdao.org> (https://mevdao.org)",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "viem": "^2.21.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}
