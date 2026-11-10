@@ -14,6 +14,7 @@
 - **Complete `eth_sendBundle` Troubleshooting Guide:** **[Flashbots Bundles Explained: How to Send `eth_sendBundle` and Why Yours Isn't Landing](https://mevdao.org/blog/flashbots-bundles-explained-how-to-send-eth-sendbundle-and-why-yours-isn-t-landi)**
 - **Anvil Mainnet Fork Testing Tutorial:** **[How to Test an MEV Bot on a Mainnet Fork with Anvil](https://mevdao.org/blog/how-to-test-an-mev-bot-on-a-mainnet-fork-with-anvil)**
 - **Private RPC & OFA Comparison:** **[Flashbots Protect vs MEV Blocker: Which Private RPC Should You Use?](https://mevdao.org/blog/flashbots-protect-vs-mev-blocker-which-private-rpc-should-you-use)**
+- **Recovering a wallet from a sweeper bot?** **[Sweeper Bot Rescue: Rescue Tokens From a Compromised Wallet](https://mevdao.org/blog/rescue-tokens-from-a-compromised-wallet-sweeper-bot-rescue-service)** (MEV DAO's paid rescue, built on the same bundle mechanics)
 - **Official Infrastructure Portal:** **[MEV DAO (mevdao.org)](https://mevdao.org)**
 
 ---
