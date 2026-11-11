@@ -201,6 +201,9 @@ No. `FLASHBOTS_AUTH_KEY` is purely an off-chain identity key used to sign the `X
 - **[How to Test an MEV Bot on a Mainnet Fork with Anvil](https://mevdao.org/blog/how-to-test-an-mev-bot-on-a-mainnet-fork-with-anvil)**
 - **[Flashbots Protect vs MEV Blocker: Which Private RPC Should You Use?](https://mevdao.org/blog/flashbots-protect-vs-mev-blocker-which-private-rpc-should-you-use)**
 - **[Ethereum Sniper Bot: Flashbots Same-Block Sniping on Uniswap](https://mevdao.org/blog/ethereum-sniper-bot-flashbots-same-block-sniping-on-uniswap)**
+- **[Simulate a Flashbots Bundle with eth_callBundle](https://mevdao.org/blog/simulate-a-flashbots-bundle-with-eth-callbundle-2026)**
+- **[How Ethereum Sniper Bots Work: Same-Block Buys with Flashbots](https://mevdao.org/blog/how-ethereum-sniper-bots-work-same-block-buys-with-flashbots-and-the-real-risks)**
+- **[Field notes: Flashbots bundle not included, a debugging list](https://mevdao-org.github.io/flashbots-bundle-not-included.html)**
 
 ## License
 
